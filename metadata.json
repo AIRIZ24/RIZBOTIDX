@@ -1,0 +1,9 @@
+{
+  "name": "RIZBOT IDX",
+  "description": "Next-generation IDX trading platform featuring RIZBOT AI Live Audio, Technical Analysis Predictions, and Real-time Market Data.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
